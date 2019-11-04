@@ -2,9 +2,10 @@
 
 def speak_to_grandma(phrase)
   if phrase == phrase.upcase
+    if 
     # she can hear
   else
-    puts ""
+    puts "HUH?! SPEAK UP, SONNY!"
   end
     
   
